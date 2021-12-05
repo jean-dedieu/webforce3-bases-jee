@@ -4,7 +4,7 @@
 
 Créer un petit formulaire qui demande le nom d'un utilisateur et le retourne
 
-#### Créer un fichier input.html
+#### Étape 1 Créer un fichier input.html
 
 Fichier input.html à créer dans src/main/webapp
 
@@ -27,7 +27,7 @@ Fichier input.html à créer dans src/main/webapp
      </body>
       </html>
 
-#### Créer un servlet HelloServlet dans src/main/java
+#### Étape 2 Créer un servlet HelloServlet dans src/main/java
 
 Code à remplir dans la méthode doGet() pour le traitement du fichier
 
@@ -39,7 +39,7 @@ Code à remplir dans la méthode doGet() pour le traitement du fichier
 		
 		
 		
-#### Si vous avez votre serveur Tomcat, faites un click droit sur input.html puis cliquer Run as -> Run on server
+#### Étape 3 Si vous avez votre serveur Tomcat, faites un click droit sur input.html puis cliquer Run as -> Run on server
           
           
           
