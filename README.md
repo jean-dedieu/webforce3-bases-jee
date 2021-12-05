@@ -5,6 +5,9 @@
 Créer un petit formulaire qui demande le nom d'un utilisateur et le retourne
 
 
+Fichier input.html à créer dans src/main/webapp
+
+
 
      <!DOCTYPE html>
     <html>
