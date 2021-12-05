@@ -4,6 +4,14 @@
 
 Créer un petit formulaire qui demande le nom d'un utilisateur et le retourne
 
+#### Étape 1 Créer un projt JEE
+
+    Aller sur File -> New -> Dynamic Web Project-> Entrez le nom que vous souhaitez donner à votre projet 
+    
+    -> Choisissez le serveur ou installez-le ...
+
+
+
 #### Étape 1 Créer un fichier input.html
 
 Fichier input.html à créer dans src/main/webapp
