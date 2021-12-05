@@ -1,9 +1,10 @@
 # webforce3-bases-jee
 
-###Exercices 1
+### Exercices 1
 
 Créer un petit formulaire qui demande le nom d'un utilisateur et le retourne
 
+#### Créer un fichier input.html
 
 Fichier input.html à créer dans src/main/webapp
 
@@ -25,3 +26,16 @@ Fichier input.html à créer dans src/main/webapp
      </form>
      </body>
       </html>
+
+#### Créer un servlet HelloServlet dans src/main/java
+
+Code à remplir dans la méthode doGet() pour le traitement du fichier
+
+
+      PrintWriter pw = response.getWriter();
+		String s = request.getParameter("t1");
+		pw.println("<h1>Bonjour," + s);
+		pw.close();
+          
+          
+          
