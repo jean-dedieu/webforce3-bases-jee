@@ -4,7 +4,7 @@
 
 Créer un petit formulaire qui demande le nom d'un utilisateur et le retourne
 
-#### Étape 1 Créer un projt JEE
+#### Étape 1 Créer un projet JEE
 
     Aller sur File -> New -> Dynamic Web Project-> Entrez le nom que vous souhaitez donner à votre projet 
     
