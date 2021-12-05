@@ -37,7 +37,7 @@ Fichier input.html à créer dans src/main/webapp
 
 #### Étape 2 Créer un servlet HelloServlet dans src/main/java
 
-Code à remplir dans la méthode doGet() pour le traitement du fichier
+Code à remplir dans la méthode doGet() pour le traitement du fichier et lier notre servlet à notre fichier HTML
 
 
       PrintWriter pw = response.getWriter();
