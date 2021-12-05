@@ -48,6 +48,10 @@ Code à remplir dans la méthode doGet() pour le traitement du fichier
 		
 		
 #### Étape 3 Si vous avez votre serveur Tomcat, faites un click droit sur input.html puis cliquer Run as -> Run on server
+
+
+
+
           
           
           
